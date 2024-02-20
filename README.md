@@ -16,3 +16,9 @@ Esse serviços pertencem a pequenas equipes autosuficientes
 - Comunicação entre os serviços deve ser bem pensada
 - Diversas tecnologias pode ser um problema
 - Monitoramento é cricial e mais complexo
+
+# Tipos de Microserviços
+- Data service
+- Business service
+- translation service
+- Edge service
